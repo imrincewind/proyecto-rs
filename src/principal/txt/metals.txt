@@ -1,0 +1,52 @@
+no-borrar-esta-linea..http://runescape.wikia.com/wiki/Grand_Exchange_Market_Watch/Metal_Index
+Adamant bar	Adamant bar	2,361	
+Up
+256	384	10,000	F2P icon	view	6 hours ago
+Adamantite ore	Adamantite ore	1,295	
+Up
+160	240	25,000	F2P icon	view	6 hours ago
+Bronze bar	Bronze bar	188	
+Down
+3	4	10,000	F2P icon	view	5 hours ago
+Coal	Coal	181	
+Down
+18	27	25,000	F2P icon	view	5 hours ago
+Copper ore	Copper ore	46	
+Up
+8	12	25,000	F2P icon	view	5 hours ago
+Gold bar	Gold bar	288	
+Down
+120	180	10,000	F2P icon	view	4 hours ago
+Gold ore	Gold ore	147	
+Unchg
+60	90	25,000	F2P icon	view	4 hours ago
+Iron bar	Iron bar	513	
+Up
+11	16	10,000	F2P icon	view	3 hours ago
+Iron ore	Iron ore	330	
+Down
+6	10	25,000	F2P icon	view	3 hours ago
+Mithril bar	Mithril bar	1,196	
+Down
+120	180	10,000	F2P icon	view	3 hours ago
+Mithril ore	Mithril ore	238	
+Down
+64	97	25,000	F2P icon	view	3 hours ago
+Rune bar	Rune bar	13,998	
+Down
+2,000	3,000	10,000	F2P icon	view	2 hours ago
+Runite ore	Runite ore	11,512	
+Up
+1,280	1,920	25,000	F2P icon	view	115 minutes ago
+Silver bar	Silver bar	159	
+Up
+60	90	10,000	F2P icon	view	102 minutes ago
+Silver ore	Silver ore	62	
+Down
+30	45	25,000	F2P icon	view	101 minutes ago
+Steel bar	Steel bar	910	
+Down
+40	60	10,000	F2P icon	view	85 minutes ago
+Tin ore	Tin ore	57	
+Down
+8	12	25,000	F2P icon	view	57 minutes ago

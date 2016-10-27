@@ -1,0 +1,58 @@
+Rune dagger	Rune dagger	3,698 coins (update)	No
+Rune claw	Rune claw	25,685 coins (update)	Yes
+Rune hatchet	Rune hatchet	7,244 coins (update)	No
+Rune mace	Rune mace	7,143 coins (update)	No
+Rune sword	Rune sword	12,322 coins (update)	No
+Rune longsword	Rune longsword	17,784 coins (update)	No
+Rune scimitar	Rune scimitar	14,446 coins (update)	No
+Rune spear	Rune spear	10,745 coins (update)	Yes
+Rune hasta	Rune hasta	14,679 coins (update)	Yes
+Rune warhammer	Rune warhammer	23,960 coins (update)	No
+Rune battleaxe	Rune battleaxe	23,725 coins (update)	No
+Rune 2h sword	Rune two-handed sword	36,996 coins (update)	No
+Rune halberd	Rune halberd	74,887 coins (update)	Yes
+Rune pickaxe	Rune pickaxe	18,528 coins (update)	No
+Rune defender	Rune defender	N/A	Yes
+Rune cane	Rune cane	37,799 coins (update)	Yes
+Off-hand weaponsEdit
+Image	Name	GE Price	Members Only
+Off-hand rune battleaxe	Off-hand rune battleaxe	24,185 coins (update)	No
+Off-hand rune crossbow	Off-hand rune crossbow	11,105 coins (update)	Yes
+Off-hand rune dagger	Off-hand rune dagger	3,922 coins (update)	No
+Off-hand rune knife	Off-hand rune knife	2,386 coins (update)	No
+Off-hand rune longsword	Off-hand rune longsword	18,124 coins (update)	No
+Off-hand rune mace	Off-hand rune mace	7,598 coins (update)	No
+Off-hand rune scimitar	Off-hand rune scimitar	23,850 coins (update)	No
+Off-hand rune sword	Off-hand rune sword	12,105 coins (update)	No
+Off-hand rune throwing axe	Off-hand rune throwing axe	740 coins (update)	Yes
+Off-hand rune warhammer	Off-hand rune warhammer	25,516 coins (update)	No
+Off-hand rune claw	Off-hand rune claw	22,829 coins (update)	Yes
+Off-hand rune dart	Off-hand rune dart	892 coins (update)	Yes
+Ranged weaponsEdit
+Image	Name	GE Price	Members Only
+Rune crossbow	Rune crossbow	8,594 coins (update)	Yes
+Rune 2h crossbow	Rune 2h crossbow	12,005 coins (update)	Yes
+Runite bolts 1	Rune bolts	692 coins (update)	Yes
+Rune arrow 1	Rune arrow	152 coins (update)	No
+Rune brutal 1	Rune brutal arrows	949 coins (update)	Yes
+Rune dart	Rune darts	336 coins (update)	Yes
+Rune javelin	Rune javelin	183 coins (update)	No
+Rune throwing axe	Rune throwing axe	904 coins (update)	Yes
+Rune knife	Rune knife	2,115 coins (update)	No
+Armour Edit
+Rune armour is the highest-quality non-degradable armour that free-to-play players can wear, and the second-highest quality armour on the standard metallic armour spectrum (bronze to dragon). Rune armour requires 50 Defence to wear, though the rune platebody also requires completion of Dragon Slayer.
+
+Name	Image	Exchange Price	Store Price
+Rune helm	Rune helm	10,125	N/A
+Rune full helm	Rune full helm	19,782	N/A
+Rune chainbody	Rune chainbody	28,686	50,000
+Rune platebody	Rune platebody	37,590	65,500
+Rune platelegs	Rune platelegs	36,767	64,000
+Rune plateskirt	Rune plateskirt	36,679	64,000
+Rune square shield	Rune sq shield	21,649	N/A
+Rune kiteshield	Rune kiteshield	30,937	N/A
+Rune spikeshield	Rune spikeshieldRune spikeshield 0	47,680 (in uncharged form)	200 FoG tokens (in charged form)
+Rune berserker shield	Rune berserker shieldRune berserker shield 0	43,992 (in uncharged form)	300 FoG tokens (in charged form)
+Rune boots	Rune boots	7,238	N/A
+Rune gloves(m)	Culinaromancer&#039;s gloves 8	N/A	5,000
+Rune gauntlets	Rune gauntlets	3,721	N/A

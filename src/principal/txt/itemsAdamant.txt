@@ -1,0 +1,72 @@
+Adamant dagger	Adamant dagger	2,225	No	None
+Adamant hatchet	Adamant hatchet	2,309	No	40 Attack to wield, 31 Woodcutting to use
+Adamant mace	Adamant mace	2,312	No	None
+Adamant claw	Adamant claw	4,234	Yes	None
+Adamant sword	Adamant sword	2,310	No	None
+Adamant longsword	Adamant longsword	4,029	No	None
+Adamant scimitar	Adamant scimitar	3,719	No	None
+Adamant spear	Adamant spear	6,107	Yes	None
+Adamant warhammer	Adamant warhammer	2,720	No	None
+Adamant battleaxe	Adamant battleaxe	3,706	No	None
+Adamant 2h sword	Adamant 2h sword	5,017	No	None
+Adamant halberd	Adamant halberd	13,076	Yes	15 Strength
+Adamant pickaxe	Adamant pickaxe	4,459	No	40 Attack to wield, 31 Mining to use
+Adamant cane	Adamant cane	45,217	Yes	None
+Adamant hasta	Adamant hasta	1,354	Yes	None
+Off-handEdit
+Item	Price	Members?	Other requirements
+Off-hand adamant dagger	Off-hand adamant dagger	332	No	None
+Off-hand adamant mace	Off-hand adamant mace	706	No	None
+Off-hand adamant claw	Off-hand adamant claw	2,836	Yes	None
+Off-hand adamant sword	Off-hand adamant sword	2,303	No	None
+Off-hand adamant longsword	Off-hand adamant longsword	3,789	No	None
+Off-hand adamant scimitar	Off-hand adamant scimitar	3,561	No	None
+Off-hand adamant warhammer	Off-hand adamant warhammer	2,383	No	None
+Off-hand adamant battleaxe	Off-hand adamant battleaxe	3,304	No	None
+Ranged weaponsEdit
+Main-handEdit
+Item	Price	Members?	Other requirements
+Adamant crossbow	Adamant crossbow	6,798	Yes	None
+Adamant 2h crossbow	Adamant 2h crossbow	5,624	Yes	None
+Adamant bolts 5	Adamant bolts	249	Yes	None
+Adamant arrow 5	Adamant arrows	51	No	None
+Adamant brutal 5	Adamant brutal arrows	358	Yes	Can only be used with a composite ogre bow.
+Adamant dart	Adamant dart	125	Yes	None
+Adamant javelin	Adamant javelin	69	No	None
+Adamant throwing axe	Adamant throwing axe	488	Yes	None
+Adamant knife	Adamant knife	471	Yes	None
+Off-handEdit
+Item	Price	Members?	Other requirements
+Off-hand adamant crossbow	Off-hand adamant crossbow	5,934	Yes	None
+Off-hand adamant dart	Off-hand adamant dart	42	Yes	None
+Off-hand adamant throwing axe	Off-hand adamant throwing axe	109	Yes	None
+Off-hand adamant knife	Off-hand adamant knife	359	Yes	None
+ArmourEdit
+Adamant armour set (lg) equipped
+A female player wearing Full Adamant with platelegs.
+Adamant armour (also known as addy armour or adam armour) is the third highest quality armour on the standard metal armour spectrum (bronze to dragon). Adamant armour requires 40 Defence to wear. Adamant armour also comes in silver and gold trimmed versions, both of which can be found from level 2 Treasure trails.
+In the March 2012 Behind the scenes, it was announced that Adamant armour would receive a graphical update along with black-dragon equipment and various other armours.
+
+RS Classic Adamantite Armour
+Adamant armour as seen in RuneScape Classic.
+Melee armourEdit
+Item	Price	Members?	Other requirements
+Adamant helm	Adamant helm	1,552	No	None
+Adamant sq shield	Adamant sq shield	1,204	No	None
+Adamant full helm	Adamant full helm	1,502	No	None
+Adamant chainbody	Adamant chainbody	1,895	No	None
+Adamant kiteshield	Adamant kiteshield	5,508	No	None
+Adamant berserker shield
+Adamant berserker shield 0	Adamant berserker shield	Fully charged: 100 Fist of Guthix tokens
+Uncharged: 12,219	No	45 Defence
+Adamant spikeshield
+Adamant spikeshield 0	Adamant spikeshield	Fully charged: 50 Fist of Guthix tokens
+Uncharged: 4,012	No	45 Defence
+Adamant platelegs	Adamant platelegs	3,034	No	None
+Adamant plateskirt	Adamant plateskirt	2,928	No	None
+Adamant platebody	Adamant platebody	8,880	No	None
+Adamant boots	Adamant boots	1,224	No	None
+Culinaromancer&#039;s gloves 7	Adamant gloves	Untradeable, 2,500 from
+Culinaromancer's Chest	Yes	Completed 7 Recipe for Disaster sub-quests
+Adamant gauntlets
+Adamant gauntlets	Adamant gauntlets	4,978	No	Unknown edit

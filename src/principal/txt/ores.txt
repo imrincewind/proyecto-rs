@@ -1,0 +1,27 @@
+Copper ore	Copper ore	46	
+Up
+8	12	25,000	F2P icon	view	4 hours ago
+Tin ore	Tin ore	57	
+Down
+8	12	25,000	F2P icon	view	28 minutes ago
+Iron ore	Iron ore	330	
+Down
+6	10	25,000	F2P icon	view	3 hours ago
+Silver ore	Silver ore	62	
+Down
+30	45	25,000	F2P icon	view	72 minutes ago
+Coal	Coal	181	
+Down
+18	27	25,000	F2P icon	view	4 hours ago
+Gold ore	Gold ore	147	
+Unchg
+60	90	25,000	F2P icon	view	3 hours ago
+Mithril ore	Mithril ore	238	
+Down
+64	97	25,000	F2P icon	view	2 hours ago
+Adamantite ore	Adamantite ore	1,295	
+Up
+160	240	25,000	F2P icon	view	6 hours ago
+Runite ore	Runite ore	11,512	
+Up
+1,280	1,920	25,000	F2P icon	view	86 minutes ago
